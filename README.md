@@ -1,6 +1,7 @@
-### Задание №1:
+### Game Development Using Unity
 
-Создать новый проект игры платформер, используя дополнительный материал к домашнему заданию. Грамотно организовать все папки 
-проекта, организовать структуру проекта. Построить карту игры - расположить все элементы окружения, главного героя.
+### Task #1:
+
+Create a new platformer game project using the homework supplement. Organize all project folders and structure the project. Create a game map – position all environmental elements and the main character.
 
 <img src="Images/Screenshot_1.jpg">
